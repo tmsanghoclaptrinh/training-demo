@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FacebookMenu</string>
+    <string name="facebook_name">Cuong Lam Chi</string>
+    <string name="create_new_profile_or_page">Create new profile or Page</string>
+    <string name="your_shortcuts">Your shortcuts</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_video">Video</string>
+    <string name="navigation_marketplace">Marketplace</string>
+    <string name="navigation_notifications">Notifications</string>
+    <string name="navigation_menu">Menu</string>
+    <string name="group_1">GenZ làm IT</string>
+    <string name="username_1">Nguyễn Át</string>
+    <string name="username_2">Đức Bùi</string>
+    <string name="username_3">Mạnh Thắng</string>
+    <string name="username_4">Xoài Xanh</string>
+    <string name="function_saved">Saved</string>
+    <string name="function_groups">Groups</string>
+    <string name="function_memories">Memories</string>
+    <string name="function_video">Video</string>
+    <string name="function_marketplace">Marketplace</string>
+    <string name="function_friends">Friends</string>
+    <string name="function_feeds">Feeds</string>
+    <string name="function_dating">Dating</string>
+</resources>
